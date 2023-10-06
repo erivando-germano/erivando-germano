@@ -1,6 +1,8 @@
 ## Bem-vindo(a) ao perfil do Erivando 😁
 
- <div>
+🚀 Olá! Meu nome é Erivando Germano, sou formado em Análise de Sistemas pela Anhanguera-SP em 2023. Atualmente, estou focado em aprimorar meus conhecimentos em HTML, CSS e Javascript, buscando criar interfaces web bonitas e funcionais. Junte-se a mim nessa jornada de aprendizado e inovação! 🌟
+
+<div>
    <a href="https://github.com/erivando-germano/">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erivando-germano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erivando-germano&layout=compact&langs_count=6&theme=tokyonight"/>
@@ -13,8 +15,10 @@
 </div>
  
 <br>
+
+🚀 Hello! I'm Erivando Germano, a technology enthusiast with a degree in Systems Analysis from Anhanguera-SP in 2023. Passionate about crafting beautiful and functional web interfaces, I'm continuously improving, focusing on HTML, CSS, and Javascript. Join me on this journey of learning and innovation! 🌟
  
-### Pra conteúdo sobre programação me segue nas redes abaixo!
+### Contato!
  
 <div> 
     <a href="https://instagram.com/vandinhodtp3" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
